@@ -132,7 +132,7 @@ setInterval(poller, 60000);
 
 Every minute, this script will refresh the two screenshots `google.png` and `yahoo.png`.
 
-## TODO
+### TODO
 
 * Allow to configure phantomjs options through YAML config
 * Implement a simple queuing system forcing the use of asynchronous screenshots when the number of browser processes reaches the limit
